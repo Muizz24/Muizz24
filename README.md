@@ -3,8 +3,8 @@
 <p><em>Software Enginner from <a href="https://www.utoronto.ca/">University of Toronto</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
-[![Linkedin: muizzahmed](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/muizzahmed/)
-[![GitHub Muizz24](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Muizz24)
+[![Linkedin: muizzahmed](https://img.shields.io/badge/-muizzahmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muizzahmed/)](https://www.linkedin.com/in/muizzahmed/)
+[![GitHub Muizz24](https://img.shields.io/github/followers/muizz24?label=follow&style=social)](https://github.com/Muizz24)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
